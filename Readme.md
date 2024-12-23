@@ -5,13 +5,13 @@ This service manages notification preferences for users
 
 ### Run
 `npm install`  
-`npm run`
+`npm start`
 
 ### Build
 `npm run build`
 
 ### Test
-`npm run test`
+`npm test`
 
 ### Docker
 Build - `docker build .`  or  `docker compose build`  
