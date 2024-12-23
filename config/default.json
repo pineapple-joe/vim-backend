@@ -1,0 +1,7 @@
+{
+  "port": 8080,
+  "notificationService": {
+    "host": "localhost",
+    "port": 5001
+  }
+}
